@@ -10,7 +10,8 @@ namespace ConsoleAppGitHub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow World");
+            Console.WriteLine("Hellow All");
+            Console.WriteLine("Well Come To My  World");
         }
     }
 }
