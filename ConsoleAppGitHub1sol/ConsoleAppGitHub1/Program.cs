@@ -9,9 +9,12 @@ namespace ConsoleAppGitHub1
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hellow All");
-            Console.WriteLine("Well Come To My  World");
+        {int a,b,c;
+         a=10;
+         b=20;
+         c=a+b;
+         Console.WriteLine("the sum is ."+c);
+          Console.WriteLine(" Program Completed");
         }
     }
 }
