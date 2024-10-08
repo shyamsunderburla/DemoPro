@@ -16,5 +16,9 @@ namespace ConsoleAppGitHub1.Operations
         {
             return x - y;
         }
+          public int mul(int a, int b)
+        {
+            return x * y;
+        }
     }
 }
